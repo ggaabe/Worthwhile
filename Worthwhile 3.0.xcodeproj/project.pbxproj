@@ -7,12 +7,42 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		865FB8F81A1815C900E05448 /* gear.png in Resources */ = {isa = PBXBuildFile; fileRef = 865FB8DC1A1815C900E05448 /* gear.png */; };
+		865FB8F91A1815C900E05448 /* hourglass.png in Resources */ = {isa = PBXBuildFile; fileRef = 865FB8DD1A1815C900E05448 /* hourglass.png */; };
+		865FB8FA1A1815C900E05448 /* hourglass0.png in Resources */ = {isa = PBXBuildFile; fileRef = 865FB8DF1A1815C900E05448 /* hourglass0.png */; };
+		865FB8FB1A1815C900E05448 /* hourglass1.png in Resources */ = {isa = PBXBuildFile; fileRef = 865FB8E01A1815C900E05448 /* hourglass1.png */; };
+		865FB8FC1A1815C900E05448 /* hourglass10.png in Resources */ = {isa = PBXBuildFile; fileRef = 865FB8E11A1815C900E05448 /* hourglass10.png */; };
+		865FB8FD1A1815C900E05448 /* hourglass11.png in Resources */ = {isa = PBXBuildFile; fileRef = 865FB8E21A1815C900E05448 /* hourglass11.png */; };
+		865FB8FE1A1815C900E05448 /* hourglass12.png in Resources */ = {isa = PBXBuildFile; fileRef = 865FB8E31A1815C900E05448 /* hourglass12.png */; };
+		865FB8FF1A1815C900E05448 /* hourglass13.png in Resources */ = {isa = PBXBuildFile; fileRef = 865FB8E41A1815C900E05448 /* hourglass13.png */; };
+		865FB9001A1815C900E05448 /* hourglass14.png in Resources */ = {isa = PBXBuildFile; fileRef = 865FB8E51A1815C900E05448 /* hourglass14.png */; };
+		865FB9011A1815C900E05448 /* hourglass15.png in Resources */ = {isa = PBXBuildFile; fileRef = 865FB8E61A1815C900E05448 /* hourglass15.png */; };
+		865FB9021A1815C900E05448 /* hourglass16.png in Resources */ = {isa = PBXBuildFile; fileRef = 865FB8E71A1815C900E05448 /* hourglass16.png */; };
+		865FB9031A1815C900E05448 /* hourglass17.png in Resources */ = {isa = PBXBuildFile; fileRef = 865FB8E81A1815C900E05448 /* hourglass17.png */; };
+		865FB9041A1815C900E05448 /* hourglass18.png in Resources */ = {isa = PBXBuildFile; fileRef = 865FB8E91A1815C900E05448 /* hourglass18.png */; };
+		865FB9051A1815C900E05448 /* hourglass19.png in Resources */ = {isa = PBXBuildFile; fileRef = 865FB8EA1A1815C900E05448 /* hourglass19.png */; };
+		865FB9061A1815C900E05448 /* hourglass2.png in Resources */ = {isa = PBXBuildFile; fileRef = 865FB8EB1A1815C900E05448 /* hourglass2.png */; };
+		865FB9071A1815C900E05448 /* hourglass20.png in Resources */ = {isa = PBXBuildFile; fileRef = 865FB8EC1A1815C900E05448 /* hourglass20.png */; };
+		865FB9081A1815C900E05448 /* hourglass21.png in Resources */ = {isa = PBXBuildFile; fileRef = 865FB8ED1A1815C900E05448 /* hourglass21.png */; };
+		865FB9091A1815C900E05448 /* hourglass22.png in Resources */ = {isa = PBXBuildFile; fileRef = 865FB8EE1A1815C900E05448 /* hourglass22.png */; };
+		865FB90A1A1815C900E05448 /* hourglass23.png in Resources */ = {isa = PBXBuildFile; fileRef = 865FB8EF1A1815C900E05448 /* hourglass23.png */; };
+		865FB90B1A1815C900E05448 /* hourglass3.png in Resources */ = {isa = PBXBuildFile; fileRef = 865FB8F01A1815C900E05448 /* hourglass3.png */; };
+		865FB90C1A1815C900E05448 /* hourglass4.png in Resources */ = {isa = PBXBuildFile; fileRef = 865FB8F11A1815C900E05448 /* hourglass4.png */; };
+		865FB90D1A1815C900E05448 /* hourglass5.png in Resources */ = {isa = PBXBuildFile; fileRef = 865FB8F21A1815C900E05448 /* hourglass5.png */; };
+		865FB90E1A1815C900E05448 /* hourglass6.png in Resources */ = {isa = PBXBuildFile; fileRef = 865FB8F31A1815C900E05448 /* hourglass6.png */; };
+		865FB90F1A1815C900E05448 /* hourglass7.png in Resources */ = {isa = PBXBuildFile; fileRef = 865FB8F41A1815C900E05448 /* hourglass7.png */; };
+		865FB9101A1815C900E05448 /* hourglass8.png in Resources */ = {isa = PBXBuildFile; fileRef = 865FB8F51A1815C900E05448 /* hourglass8.png */; };
+		865FB9111A1815C900E05448 /* hourglass9.png in Resources */ = {isa = PBXBuildFile; fileRef = 865FB8F61A1815C900E05448 /* hourglass9.png */; };
+		865FB9121A1815C900E05448 /* white.png in Resources */ = {isa = PBXBuildFile; fileRef = 865FB8F71A1815C900E05448 /* white.png */; };
 		866E31B719FAACFF001212AD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 866E31B619FAACFF001212AD /* AppDelegate.swift */; };
-		866E31B919FAACFF001212AD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 866E31B819FAACFF001212AD /* ViewController.swift */; };
-		866E31BC19FAACFF001212AD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 866E31BA19FAACFF001212AD /* Main.storyboard */; };
-		866E31BE19FAACFF001212AD /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 866E31BD19FAACFF001212AD /* Images.xcassets */; };
 		866E31C119FAACFF001212AD /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 866E31BF19FAACFF001212AD /* LaunchScreen.xib */; };
 		866E31CD19FAACFF001212AD /* Worthwhile_3_0Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 866E31CC19FAACFF001212AD /* Worthwhile_3_0Tests.swift */; };
+		866E31E019FAAD26001212AD /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 866E31D719FAAD26001212AD /* Info.plist */; };
+		866E31E119FAAD26001212AD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 866E31D819FAAD26001212AD /* ViewController.swift */; };
+		866E31E219FAAD26001212AD /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 866E31DA19FAAD26001212AD /* LaunchScreen.xib */; };
+		866E31E319FAAD26001212AD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 866E31DC19FAAD26001212AD /* Main.storyboard */; };
+		866E31E419FAAD26001212AD /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 866E31DE19FAAD26001212AD /* Images.xcassets */; };
+		866E31E719FAAD96001212AD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 866E31E519FAAD96001212AD /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -26,16 +56,46 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		865FB8DC1A1815C900E05448 /* gear.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gear.png; sourceTree = "<group>"; };
+		865FB8DD1A1815C900E05448 /* hourglass.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hourglass.png; sourceTree = "<group>"; };
+		865FB8DF1A1815C900E05448 /* hourglass0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hourglass0.png; sourceTree = "<group>"; };
+		865FB8E01A1815C900E05448 /* hourglass1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hourglass1.png; sourceTree = "<group>"; };
+		865FB8E11A1815C900E05448 /* hourglass10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hourglass10.png; sourceTree = "<group>"; };
+		865FB8E21A1815C900E05448 /* hourglass11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hourglass11.png; sourceTree = "<group>"; };
+		865FB8E31A1815C900E05448 /* hourglass12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hourglass12.png; sourceTree = "<group>"; };
+		865FB8E41A1815C900E05448 /* hourglass13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hourglass13.png; sourceTree = "<group>"; };
+		865FB8E51A1815C900E05448 /* hourglass14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hourglass14.png; sourceTree = "<group>"; };
+		865FB8E61A1815C900E05448 /* hourglass15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hourglass15.png; sourceTree = "<group>"; };
+		865FB8E71A1815C900E05448 /* hourglass16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hourglass16.png; sourceTree = "<group>"; };
+		865FB8E81A1815C900E05448 /* hourglass17.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hourglass17.png; sourceTree = "<group>"; };
+		865FB8E91A1815C900E05448 /* hourglass18.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hourglass18.png; sourceTree = "<group>"; };
+		865FB8EA1A1815C900E05448 /* hourglass19.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hourglass19.png; sourceTree = "<group>"; };
+		865FB8EB1A1815C900E05448 /* hourglass2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hourglass2.png; sourceTree = "<group>"; };
+		865FB8EC1A1815C900E05448 /* hourglass20.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hourglass20.png; sourceTree = "<group>"; };
+		865FB8ED1A1815C900E05448 /* hourglass21.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hourglass21.png; sourceTree = "<group>"; };
+		865FB8EE1A1815C900E05448 /* hourglass22.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hourglass22.png; sourceTree = "<group>"; };
+		865FB8EF1A1815C900E05448 /* hourglass23.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hourglass23.png; sourceTree = "<group>"; };
+		865FB8F01A1815C900E05448 /* hourglass3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hourglass3.png; sourceTree = "<group>"; };
+		865FB8F11A1815C900E05448 /* hourglass4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hourglass4.png; sourceTree = "<group>"; };
+		865FB8F21A1815C900E05448 /* hourglass5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hourglass5.png; sourceTree = "<group>"; };
+		865FB8F31A1815C900E05448 /* hourglass6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hourglass6.png; sourceTree = "<group>"; };
+		865FB8F41A1815C900E05448 /* hourglass7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hourglass7.png; sourceTree = "<group>"; };
+		865FB8F51A1815C900E05448 /* hourglass8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hourglass8.png; sourceTree = "<group>"; };
+		865FB8F61A1815C900E05448 /* hourglass9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hourglass9.png; sourceTree = "<group>"; };
+		865FB8F71A1815C900E05448 /* white.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = white.png; sourceTree = "<group>"; };
 		866E31B119FAACFF001212AD /* Worthwhile 3.0.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Worthwhile 3.0.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		866E31B519FAACFF001212AD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		866E31B619FAACFF001212AD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		866E31B819FAACFF001212AD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		866E31BB19FAACFF001212AD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		866E31BD19FAACFF001212AD /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		866E31C019FAACFF001212AD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		866E31C619FAACFF001212AD /* Worthwhile 3.0Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Worthwhile 3.0Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		866E31CB19FAACFF001212AD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		866E31CC19FAACFF001212AD /* Worthwhile_3_0Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Worthwhile_3_0Tests.swift; sourceTree = "<group>"; };
+		866E31D719FAAD26001212AD /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = "../../Fishy App/Fishy App/Info.plist"; sourceTree = "<group>"; };
+		866E31D819FAAD26001212AD /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ViewController.swift; path = "../../Fishy App/Fishy App/ViewController.swift"; sourceTree = "<group>"; };
+		866E31DB19FAAD26001212AD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = LaunchScreen.xib; sourceTree = "<group>"; };
+		866E31DD19FAAD26001212AD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Main.storyboard; sourceTree = "<group>"; };
+		866E31DE19FAAD26001212AD /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = "../../Fishy App/Fishy App/Images.xcassets"; sourceTree = "<group>"; };
+		866E31E619FAAD96001212AD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = "../../Fishy App/Fishy App/Base.lproj/Main.storyboard"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +116,48 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		865FB8DB1A1815C900E05448 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				865FB8DC1A1815C900E05448 /* gear.png */,
+				865FB8DD1A1815C900E05448 /* hourglass.png */,
+				865FB8DE1A1815C900E05448 /* retry */,
+				865FB8F71A1815C900E05448 /* white.png */,
+			);
+			path = images;
+			sourceTree = "<group>";
+		};
+		865FB8DE1A1815C900E05448 /* retry */ = {
+			isa = PBXGroup;
+			children = (
+				865FB8DF1A1815C900E05448 /* hourglass0.png */,
+				865FB8E01A1815C900E05448 /* hourglass1.png */,
+				865FB8E11A1815C900E05448 /* hourglass10.png */,
+				865FB8E21A1815C900E05448 /* hourglass11.png */,
+				865FB8E31A1815C900E05448 /* hourglass12.png */,
+				865FB8E41A1815C900E05448 /* hourglass13.png */,
+				865FB8E51A1815C900E05448 /* hourglass14.png */,
+				865FB8E61A1815C900E05448 /* hourglass15.png */,
+				865FB8E71A1815C900E05448 /* hourglass16.png */,
+				865FB8E81A1815C900E05448 /* hourglass17.png */,
+				865FB8E91A1815C900E05448 /* hourglass18.png */,
+				865FB8EA1A1815C900E05448 /* hourglass19.png */,
+				865FB8EB1A1815C900E05448 /* hourglass2.png */,
+				865FB8EC1A1815C900E05448 /* hourglass20.png */,
+				865FB8ED1A1815C900E05448 /* hourglass21.png */,
+				865FB8EE1A1815C900E05448 /* hourglass22.png */,
+				865FB8EF1A1815C900E05448 /* hourglass23.png */,
+				865FB8F01A1815C900E05448 /* hourglass3.png */,
+				865FB8F11A1815C900E05448 /* hourglass4.png */,
+				865FB8F21A1815C900E05448 /* hourglass5.png */,
+				865FB8F31A1815C900E05448 /* hourglass6.png */,
+				865FB8F41A1815C900E05448 /* hourglass7.png */,
+				865FB8F51A1815C900E05448 /* hourglass8.png */,
+				865FB8F61A1815C900E05448 /* hourglass9.png */,
+			);
+			path = retry;
+			sourceTree = "<group>";
+		};
 		866E31A819FAACFF001212AD = {
 			isa = PBXGroup;
 			children = (
@@ -77,10 +179,13 @@
 		866E31B319FAACFF001212AD /* Worthwhile 3.0 */ = {
 			isa = PBXGroup;
 			children = (
+				866E31D719FAAD26001212AD /* Info.plist */,
+				866E31D819FAAD26001212AD /* ViewController.swift */,
 				866E31B619FAACFF001212AD /* AppDelegate.swift */,
-				866E31B819FAACFF001212AD /* ViewController.swift */,
-				866E31BA19FAACFF001212AD /* Main.storyboard */,
-				866E31BD19FAACFF001212AD /* Images.xcassets */,
+				865FB8DB1A1815C900E05448 /* images */,
+				866E31D919FAAD26001212AD /* Base.lproj */,
+				866E31DE19FAAD26001212AD /* Images.xcassets */,
+				866E31E519FAAD96001212AD /* Main.storyboard */,
 				866E31BF19FAACFF001212AD /* LaunchScreen.xib */,
 				866E31B419FAACFF001212AD /* Supporting Files */,
 			);
@@ -110,6 +215,16 @@
 				866E31CB19FAACFF001212AD /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		866E31D919FAAD26001212AD /* Base.lproj */ = {
+			isa = PBXGroup;
+			children = (
+				866E31DA19FAAD26001212AD /* LaunchScreen.xib */,
+				866E31DC19FAAD26001212AD /* Main.storyboard */,
+			);
+			name = Base.lproj;
+			path = "../../Fishy App/Fishy App/Base.lproj";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -192,9 +307,39 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				866E31BC19FAACFF001212AD /* Main.storyboard in Resources */,
+				865FB8FB1A1815C900E05448 /* hourglass1.png in Resources */,
+				865FB90A1A1815C900E05448 /* hourglass23.png in Resources */,
+				865FB90B1A1815C900E05448 /* hourglass3.png in Resources */,
+				865FB9061A1815C900E05448 /* hourglass2.png in Resources */,
+				865FB9081A1815C900E05448 /* hourglass21.png in Resources */,
+				865FB90F1A1815C900E05448 /* hourglass7.png in Resources */,
+				865FB90D1A1815C900E05448 /* hourglass5.png in Resources */,
+				865FB8FE1A1815C900E05448 /* hourglass12.png in Resources */,
+				865FB9071A1815C900E05448 /* hourglass20.png in Resources */,
+				865FB9101A1815C900E05448 /* hourglass8.png in Resources */,
+				865FB9021A1815C900E05448 /* hourglass16.png in Resources */,
+				865FB9111A1815C900E05448 /* hourglass9.png in Resources */,
+				865FB8FC1A1815C900E05448 /* hourglass10.png in Resources */,
+				865FB8FD1A1815C900E05448 /* hourglass11.png in Resources */,
+				866E31E719FAAD96001212AD /* Main.storyboard in Resources */,
+				866E31E219FAAD26001212AD /* LaunchScreen.xib in Resources */,
+				865FB8F91A1815C900E05448 /* hourglass.png in Resources */,
+				865FB8FA1A1815C900E05448 /* hourglass0.png in Resources */,
+				865FB90C1A1815C900E05448 /* hourglass4.png in Resources */,
+				865FB9001A1815C900E05448 /* hourglass14.png in Resources */,
+				865FB90E1A1815C900E05448 /* hourglass6.png in Resources */,
+				865FB9041A1815C900E05448 /* hourglass18.png in Resources */,
+				865FB9091A1815C900E05448 /* hourglass22.png in Resources */,
+				865FB8FF1A1815C900E05448 /* hourglass13.png in Resources */,
+				865FB9031A1815C900E05448 /* hourglass17.png in Resources */,
+				865FB8F81A1815C900E05448 /* gear.png in Resources */,
+				865FB9011A1815C900E05448 /* hourglass15.png in Resources */,
+				866E31E019FAAD26001212AD /* Info.plist in Resources */,
+				866E31E419FAAD26001212AD /* Images.xcassets in Resources */,
+				866E31E319FAAD26001212AD /* Main.storyboard in Resources */,
+				865FB9121A1815C900E05448 /* white.png in Resources */,
+				865FB9051A1815C900E05448 /* hourglass19.png in Resources */,
 				866E31C119FAACFF001212AD /* LaunchScreen.xib in Resources */,
-				866E31BE19FAACFF001212AD /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -212,7 +357,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				866E31B919FAACFF001212AD /* ViewController.swift in Sources */,
+				866E31E119FAAD26001212AD /* ViewController.swift in Sources */,
 				866E31B719FAACFF001212AD /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -236,20 +381,36 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		866E31BA19FAACFF001212AD /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				866E31BB19FAACFF001212AD /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		866E31BF19FAACFF001212AD /* LaunchScreen.xib */ = {
 			isa = PBXVariantGroup;
 			children = (
 				866E31C019FAACFF001212AD /* Base */,
 			);
 			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+		866E31DA19FAAD26001212AD /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				866E31DB19FAAD26001212AD /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+		866E31DC19FAAD26001212AD /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				866E31DD19FAAD26001212AD /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		866E31E519FAAD96001212AD /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				866E31E619FAAD96001212AD /* Base */,
+			);
+			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -407,6 +568,7 @@
 				866E31D219FAACFF001212AD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		866E31D319FAACFF001212AD /* Build configuration list for PBXNativeTarget "Worthwhile 3.0Tests" */ = {
 			isa = XCConfigurationList;
@@ -415,6 +577,7 @@
 				866E31D519FAACFF001212AD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
