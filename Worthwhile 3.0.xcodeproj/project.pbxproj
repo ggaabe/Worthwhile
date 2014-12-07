@@ -36,13 +36,13 @@
 		865FB9121A1815C900E05448 /* white.png in Resources */ = {isa = PBXBuildFile; fileRef = 865FB8F71A1815C900E05448 /* white.png */; };
 		866E31C119FAACFF001212AD /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 866E31BF19FAACFF001212AD /* LaunchScreen.xib */; };
 		866E31CD19FAACFF001212AD /* Worthwhile_3_0Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 866E31CC19FAACFF001212AD /* Worthwhile_3_0Tests.swift */; };
-		866E31E419FAAD26001212AD /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 866E31DE19FAAD26001212AD /* Images.xcassets */; };
 		86888CDF1A34AB59005BE7B3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86888CDD1A34AB59005BE7B3 /* AppDelegate.swift */; };
 		86888CE01A34AB59005BE7B3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86888CDE1A34AB59005BE7B3 /* ViewController.swift */; };
 		86888CE31A34B1B4005BE7B3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 86888CE11A34B1B4005BE7B3 /* Main.storyboard */; };
 		86888CE71A34B1DC005BE7B3 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 86888CE61A34B1DC005BE7B3 /* Info.plist */; };
 		86888CED1A34B2F2005BE7B3 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 86888CE91A34B2F2005BE7B3 /* LaunchScreen.xib */; };
 		86888CEE1A34B2F2005BE7B3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 86888CEB1A34B2F2005BE7B3 /* Main.storyboard */; };
+		86888CF01A34B3A8005BE7B3 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 86888CEF1A34B3A8005BE7B3 /* Images.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -89,7 +89,6 @@
 		866E31C619FAACFF001212AD /* Worthwhile 3.0Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Worthwhile 3.0Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		866E31CB19FAACFF001212AD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		866E31CC19FAACFF001212AD /* Worthwhile_3_0Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Worthwhile_3_0Tests.swift; sourceTree = "<group>"; };
-		866E31DE19FAAD26001212AD /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = "../../Fishy App/Fishy App/Images.xcassets"; sourceTree = "<group>"; };
 		86888CDC1A34AB59005BE7B3 /* Worthwhile 3.0-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Worthwhile 3.0-Bridging-Header.h"; sourceTree = "<group>"; };
 		86888CDD1A34AB59005BE7B3 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		86888CDE1A34AB59005BE7B3 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -97,6 +96,7 @@
 		86888CE61A34B1DC005BE7B3 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		86888CEA1A34B2F2005BE7B3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = LaunchScreen.xib; sourceTree = "<group>"; };
 		86888CEC1A34B2F2005BE7B3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Main.storyboard; sourceTree = "<group>"; };
+		86888CEF1A34B3A8005BE7B3 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -184,9 +184,9 @@
 				86888CDD1A34AB59005BE7B3 /* AppDelegate.swift */,
 				86888CDE1A34AB59005BE7B3 /* ViewController.swift */,
 				865FB8DB1A1815C900E05448 /* images */,
-				866E31DE19FAAD26001212AD /* Images.xcassets */,
 				86888CE81A34B2F2005BE7B3 /* Base.lproj */,
 				86888CE11A34B1B4005BE7B3 /* Main.storyboard */,
+				86888CEF1A34B3A8005BE7B3 /* Images.xcassets */,
 				866E31BF19FAACFF001212AD /* LaunchScreen.xib */,
 				866E31B419FAACFF001212AD /* Supporting Files */,
 				86888CDC1A34AB59005BE7B3 /* Worthwhile 3.0-Bridging-Header.h */,
@@ -323,6 +323,7 @@
 				865FB9111A1815C900E05448 /* hourglass9.png in Resources */,
 				865FB8FC1A1815C900E05448 /* hourglass10.png in Resources */,
 				865FB8FD1A1815C900E05448 /* hourglass11.png in Resources */,
+				86888CF01A34B3A8005BE7B3 /* Images.xcassets in Resources */,
 				865FB8F91A1815C900E05448 /* hourglass.png in Resources */,
 				865FB8FA1A1815C900E05448 /* hourglass0.png in Resources */,
 				865FB90C1A1815C900E05448 /* hourglass4.png in Resources */,
@@ -336,7 +337,6 @@
 				865FB9011A1815C900E05448 /* hourglass15.png in Resources */,
 				86888CE31A34B1B4005BE7B3 /* Main.storyboard in Resources */,
 				86888CEE1A34B2F2005BE7B3 /* Main.storyboard in Resources */,
-				866E31E419FAAD26001212AD /* Images.xcassets in Resources */,
 				86888CED1A34B2F2005BE7B3 /* LaunchScreen.xib in Resources */,
 				865FB9121A1815C900E05448 /* white.png in Resources */,
 				865FB9051A1815C900E05448 /* hourglass19.png in Resources */,
