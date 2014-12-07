@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  Worthwhile 3.0
+// 
 //
-//  Created by Gabe Garrett on 10/24/14.
-//  Copyright (c) 2014 Meaningful Apps. All rights reserved.
+//  Created by Gabriel Garrett on 9/20/14.
+//  Copyright (c) 2014 Gabriel Garrett. All rights reserved.
 //
 
 import UIKit
@@ -16,6 +16,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
         // Override point for customization after application launch.
+        
         return true
     }
 
